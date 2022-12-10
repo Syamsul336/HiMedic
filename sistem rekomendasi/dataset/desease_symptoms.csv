@@ -1,0 +1,745 @@
+penyakit;gejala
+asam urat;kolesterol (tinggi)
+asam urat;asam urat (tinggi)
+asam urat;gula darah (tinggi)
+asam urat;sendi terasa sakit
+asam urat;demam
+asam urat;sulit berjalan
+asam urat;nyeri pada kaki
+asam urat;nyeri pada area lengan atau tangan
+asam urat;nyeri di lutut
+asam urat;kurang berenergi atau mudah kelelahan
+asam urat;sering pusing atau sakit kepala
+asam urat;jantung berdebar-debar kencang
+asam urat;pembengkakan sendi
+asam urat;rasa panas pada persendian
+asam urat;nyeri pada malam hari
+asam urat;terdapat benjolan pada sendi
+asam urat;kemerahan pada kulit sendi
+asam urat;kulit terasa gatal
+asam urat;kulit terkelupas
+asam urat;kulit tampak kasar atau bersisik
+diabetes;kolesterol (tinggi)
+diabetes;asam urat (tinggi)
+diabetes;gula darah (tinggi)
+diabetes;sering buang air kecil
+diabetes;sering merasa lapar atau mudah lapar
+diabetes;sering merasa haus atau mudah haus
+diabetes;gangguan penglihatan
+diabetes;berat badan menurun
+diabetes;luka sulit sembuh pada beberapa bagian tubuh
+diabetes;kurang berenergi atau mudah kelelahan
+diabetes;infeksi kulit berulang
+diabetes;kulit terasa gatal
+diabetes;sering mengantuk
+diabetes;tidak bisa menahan buang air kecil atau mudah mengompol
+diabetes;napas berbau
+diabetes;mual
+diabetes;muntah
+diabetes;sakit atau nyeri di perut
+diabetes;obesitas
+diabetes;sering kesemutan pada kaki atau tangan
+diabetes;gusi sering infeksi dan luka
+diabetes;mudah terserang influenza
+diabetes;pendengaran berkurang
+diabetes;leher menghitam
+diabetes;mulut kering
+diabetes;disfungsi ereksi (tidak dapat mempertahankan ereksi)
+diabetes;nyeri pada kaki
+gula darah tinggi;kolesterol (tinggi)
+gula darah tinggi;asam urat (tinggi)
+gula darah tinggi;gula darah (tinggi)
+gula darah tinggi;gangguan penglihatan
+gula darah tinggi;sering buang air kecil
+gula darah tinggi;sering pusing atau sakit kepala
+gula darah tinggi;sering merasa haus atau mudah haus
+gula darah tinggi;mual
+gula darah tinggi;muntah
+gula darah tinggi;kesemutan pada bagian tubuh tertentu
+gula darah tinggi;luka sulit sembuh pada beberapa bagian tubuh
+gula darah tinggi;sakit gigi
+gula darah tinggi;kulit mudah infeksi
+gula darah tinggi;kurang berenergi atau mudah kelelahan
+gula darah tinggi;sering merasa lapar atau mudah lapar
+gula darah tinggi;menyukai makanan manis
+gula darah tinggi;berat badan menurun
+gula darah tinggi;sulit berkonsentrasi
+gula darah tinggi;sering pusing atau sakit kepala
+gula darah tinggi;infeksi pada alat kelamin
+gula darah tinggi;gangguan pencernaan pada perut (diare, sembelit atau gangguan lainnya)
+gula darah tinggi;napas berbau
+gula darah tinggi;sulit bernapas atau sesak napas
+Kolesterol;kolesterol (tinggi)
+Kolesterol;asam urat (tinggi)
+Kolesterol;gula darah (tinggi)
+Kolesterol;kurang berenergi atau mudah kelelahan
+Kolesterol;sering mengantuk
+Kolesterol;nyeri pada kaki
+Kolesterol;bagian belakang leher (tengkuk) terasa pegal
+Kolesterol;nyeri pada dada
+Kolesterol;kelainan pada kulit
+Kolesterol;muncul gumpalan di urat
+Kolesterol;sering kesemutan pada kaki atau tangan
+Kolesterol;rasa sakit pada rahang
+Kolesterol;disfungsi ereksi (tidak dapat mempertahankan ereksi)
+Kolesterol;sering pusing atau sakit kepala
+Kolesterol;merasa kram pada bagian tubuh tertentu
+Kolesterol1;kolesterol (tinggi)
+Kolesterol1;asam urat (rendah)
+Kolesterol1;gula darah (tinggi)
+Kolesterol1;kurang berenergi atau mudah kelelahan
+Kolesterol1;sering mengantuk
+Kolesterol1;nyeri pada kaki
+Kolesterol1;bagian belakang leher (tengkuk) terasa pegal
+Kolesterol1;nyeri pada dada
+Kolesterol1;kelainan pada kulit
+Kolesterol1;muncul gumpalan di urat
+Kolesterol1;sering kesemutan pada kaki atau tangan
+Kolesterol1;rasa sakit pada rahang
+Kolesterol1;disfungsi ereksi (tidak dapat mempertahankan ereksi)
+Kolesterol1;sering pusing atau sakit kepala
+Kolesterol1;merasa kram pada bagian tubuh tertentu
+stroke;kolesterol (tinggi)
+stroke;asam urat (rendah)
+stroke;gula darah (tinggi)
+stroke;sering pusing atau sakit kepala
+stroke;sulit berjalan
+stroke;lumpuh pada anggota tubuh tertentu
+stroke;gangguan penglihatan
+stroke;cara berbicara menjadi tidak jelas
+stroke;gangguan penglihatan
+stroke;kesemutan pada bagian tubuh tertentu
+stroke;mati rasa mendadak di bagian tubuh tertentu
+stroke;sering pusing atau sakit kepala
+stroke;kehilangan keseimbangan secara mendadak
+stroke;tidak bisa menahan buang air kecil atau mudah mengompol
+stroke;kurang berenergi atau mudah kelelahan
+stroke;kesulitan menelan
+stroke;senyum tidak simetris
+stroke1;kolesterol (tinggi)
+stroke1;asam urat (tinggi)
+stroke1;gula darah (tinggi)
+stroke1;sering pusing atau sakit kepala
+stroke1;sulit berjalan
+stroke1;lumpuh pada anggota tubuh tertentu
+stroke1;gangguan penglihatan
+stroke1;cara berbicara menjadi tidak jelas
+stroke1;gangguan penglihatan
+stroke1;kesemutan pada bagian tubuh tertentu
+stroke1;mati rasa mendadak di bagian tubuh tertentu
+stroke1;sering pusing atau sakit kepala
+stroke1;kehilangan keseimbangan secara mendadak
+stroke1;tidak bisa menahan buang air kecil atau mudah mengompol
+stroke1;kurang berenergi atau mudah kelelahan
+stroke1;kesulitan menelan
+stroke1;senyum tidak simetris
+hipertensi;kolesterol (tinggi)
+hipertensi;asam urat (tinggi)
+hipertensi;gula darah (tinggi)
+hipertensi;sering pusing atau sakit kepala
+hipertensi;sulit bernapas atau sesak napas
+hipertensi;mimisan
+hipertensi;kulit memerah pada bagian tubuh tertentu
+hipertensi;sering pusing atau sakit kepala
+hipertensi;nyeri pada dada
+hipertensi;gangguan penglihatan
+hipertensi;ada darah dalam urine
+hipertensi;telinga berdengung
+hipertensi;irama denyut jantung yang tidak stabil
+hipertensi;kurang berenergi atau mudah kelelahan
+hipertensi;mual
+hipertensi;muntah
+hipertensi;mudah kebingungan
+hipertensi;mudah cemas
+hipertensi;tremor otot
+hipertensi;bagian belakang leher (tengkuk) terasa pegal
+hipertensi;jantung berdebar-debar kencang
+hipertensi;sering buang air kecil
+hipertensi;mudah marah
+gagal jantung;kolesterol (tinggi)
+gagal jantung;asam urat (tinggi)
+gagal jantung;gula darah (tinggi)
+gagal jantung;sulit bernapas atau sesak napas
+gagal jantung;kurang berenergi atau mudah kelelahan
+gagal jantung;pembengkakan pergelangan kaki
+gagal jantung;sering pusing atau sakit kepala
+gagal jantung;irama denyut jantung yang tidak stabil
+gagal jantung;pembengkakan pada bagian tubuh tertentu
+gagal jantung;jantung berdebar-debar kencang
+gagal jantung;batuk terus-menerus
+gagal jantung;kurang nafsu makan
+gagal jantung;mual
+gagal jantung;sulit berkonsentrasi
+gagal jantung;bengkak pada bagian perut
+gagal ginjal;kolesterol (tinggi)
+gagal ginjal;asam urat (tinggi)
+gagal ginjal;gula darah (tinggi)
+gagal ginjal;nyeri punggung bawah
+gagal ginjal;kurang berenergi atau mudah kelelahan
+gagal ginjal;panas dingin pada tubuh
+gagal ginjal;sulit bernapas atau sesak napas
+gagal ginjal;sering pusing atau sakit kepala
+gagal ginjal;kulit tampak kasar atau bersisik
+gagal ginjal;kulit terasa gatal
+gagal ginjal;pembengkakan pada bagian tubuh tertentu
+gagal ginjal;mual
+gagal ginjal;muntah
+gagal ginjal;napas berbau
+gagal ginjal;sering terbangun di malam hari
+gagal ginjal;urine berbusa
+gagal ginjal;warna urine yang gelap
+gagal ginjal;mendengkur saat tidur
+gagal ginjal;kaki bengkak
+gagal ginjal;merasa kram pada bagian tubuh tertentu
+batu ginjal;kolesterol (tinggi)
+batu ginjal;asam urat (tinggi)
+batu ginjal;gula darah (tinggi)
+batu ginjal;sakit atau nyeri pada pinggang
+batu ginjal;sakit atau nyeri pada punggung
+batu ginjal;sakit atau nyeri di perut
+batu ginjal;terasa sakit atau panas ketika buang air kecil
+batu ginjal;sering buang air kecil
+batu ginjal;ada darah dalam urine
+batu ginjal;air seni keruh atau berbau
+batu ginjal;buang air kecil sedikit
+batu ginjal;mual
+batu ginjal;muntah
+batu ginjal;demam
+batu ginjal1;kolesterol (tidak rendah)
+batu ginjal1;asam urat (tinggi)
+batu ginjal1;gula darah (tinggi)
+batu ginjal1;sakit atau nyeri pada pinggang
+batu ginjal1;sakit atau nyeri pada punggung
+batu ginjal1;sakit atau nyeri di perut
+batu ginjal1;terasa sakit atau panas ketika buang air kecil
+batu ginjal1;sering buang air kecil
+batu ginjal1;ada darah dalam urine
+batu ginjal1;air seni keruh atau berbau
+batu ginjal1;buang air kecil sedikit
+batu ginjal1;mual
+batu ginjal1;muntah
+batu ginjal1;demam
+arteri perifer;kolesterol (tinggi)
+arteri perifer;asam urat (tinggi)
+arteri perifer;gula darah (tinggi)
+arteri perifer;dingin pada kaki bagian bawah
+arteri perifer;merasa kram pada bagian tubuh tertentu
+arteri perifer;tidak ada nadi atau nadi lemah di tungkai atau kaki
+arteri perifer;merasa kram pada bagian tubuh tertentu
+arteri perifer;kulit mengkilap di kaki
+arteri perifer;perubahan warna kulit pada kaki
+arteri perifer;pertumbuhan kuku kaki lebih lambat
+arteri perifer;luka sulit sembuh pada beberapa bagian tubuh
+arteri perifer;nyeri pada area lengan atau tangan
+arteri perifer;disfungsi ereksi (tidak dapat mempertahankan ereksi)
+arteri perifer;rambut rontok atau pertumbuhan rambut lebih lambat di kaki
+arteri perifer;kurang berenergi atau mudah kelelahan
+arteri perifer;sulit berjalan
+arteri perifer1;kolesterol (tinggi)
+arteri perifer1;asam urat (rendah)
+arteri perifer1;gula darah (tinggi)
+arteri perifer1;dingin pada kaki bagian bawah
+arteri perifer1;merasa kram pada bagian tubuh tertentu
+arteri perifer1;tidak ada nadi atau nadi lemah di tungkai atau kaki
+arteri perifer1;merasa kram pada bagian tubuh tertentu
+arteri perifer1;kulit mengkilap di kaki
+arteri perifer1;perubahan warna kulit pada kaki
+arteri perifer1;pertumbuhan kuku kaki lebih lambat
+arteri perifer1;luka sulit sembuh pada beberapa bagian tubuh
+arteri perifer1;nyeri pada area lengan atau tangan
+arteri perifer1;disfungsi ereksi (tidak dapat mempertahankan ereksi)
+arteri perifer1;rambut rontok atau pertumbuhan rambut lebih lambat di kaki
+arteri perifer1;kurang berenergi atau mudah kelelahan
+arteri perifer1;sulit berjalan
+jantung koroner;kolesterol (tinggi)
+jantung koroner;asam urat (tinggi)
+jantung koroner;gula darah (tinggi)
+jantung koroner;nyeri pada dada
+jantung koroner;tertekan di daerah dada
+jantung koroner;rasa berat di dada
+jantung koroner;mual
+jantung koroner;nyeri pada ulu hati
+jantung koroner;keringat dingin
+jantung koroner;rasa terbakar pada bagian tubuh tertentu
+jantung koroner;kurang berenergi atau mudah kelelahan
+jantung koroner;irama denyut jantung yang tidak stabil
+alzheimer;kolesterol (tinggi)
+alzheimer;asam urat (rendah)
+alzheimer;gula darah (tinggi)
+alzheimer;sering lupa
+alzheimer;sulit berkonsentrasi
+alzheimer;sulit melakukan kegiatan yang familiar
+alzheimer;merasa kebingungan setiap saat
+alzheimer;kesulitan memahami visuospasial
+alzheimer;cara berbicara menjadi tidak jelas
+alzheimer;menaruh barang tidak pada tempatnya
+alzheimer;salah membuat keputusan
+alzheimer;menarik diri dari pergaulan
+alzheimer;perubahan perilaku dan kepribadian
+alzheimer1;kolesterol (tinggi)
+alzheimer1;asam urat (tinggi)
+alzheimer1;gula darah (rendah)
+alzheimer1;sering lupa
+alzheimer1;sulit berkonsentrasi
+alzheimer1;sulit melakukan kegiatan yang familiar
+alzheimer1;merasa kebingungan setiap saat
+alzheimer1;kesulitan memahami visuospasial
+alzheimer1;cara berbicara menjadi tidak jelas
+alzheimer1;menaruh barang tidak pada tempatnya
+alzheimer1;salah membuat keputusan
+alzheimer1;menarik diri dari pergaulan
+alzheimer1;perubahan perilaku dan kepribadian
+alzheimer2;kolesterol (tinggi)
+alzheimer2;asam urat (tinggi)
+alzheimer2;gula darah (tinggi)
+alzheimer2;sering lupa
+alzheimer2;sulit berkonsentrasi
+alzheimer2;sulit melakukan kegiatan yang familiar
+alzheimer2;merasa kebingungan setiap saat
+alzheimer2;kesulitan memahami visuospasial
+alzheimer2;cara berbicara menjadi tidak jelas
+alzheimer2;menaruh barang tidak pada tempatnya
+alzheimer2;salah membuat keputusan
+alzheimer2;menarik diri dari pergaulan
+alzheimer2;perubahan perilaku dan kepribadian
+alzheimer3;kolesterol (tinggi)
+alzheimer3;asam urat (rendah)
+alzheimer3;gula darah (rendah)
+alzheimer3;sering lupa
+alzheimer3;sulit berkonsentrasi
+alzheimer3;sulit melakukan kegiatan yang familiar
+alzheimer3;merasa kebingungan setiap saat
+alzheimer3;kesulitan memahami visuospasial
+alzheimer3;cara berbicara menjadi tidak jelas
+alzheimer3;menaruh barang tidak pada tempatnya
+alzheimer3;salah membuat keputusan
+alzheimer3;menarik diri dari pergaulan
+alzheimer3;perubahan perilaku dan kepribadian
+Nefropati diabetik;kolesterol (tinggi)
+Nefropati diabetik;asam urat (tinggi)
+Nefropati diabetik;gula darah (tinggi)
+Nefropati diabetik;gangguan tidur atau sulit tidur
+Nefropati diabetik;kulit kering
+Nefropati diabetik;kulit terasa gatal
+Nefropati diabetik;urine berbusa
+Nefropati diabetik;kurang berenergi atau mudah kelelahan
+Nefropati diabetik;pembengkakan pada bagian tubuh tertentu
+Nefropati diabetik;sering buang air kecil
+Nefropati diabetik;kurang nafsu makan
+Nefropati diabetik;berat badan menurun
+Nefropati diabetik;sulit bernapas atau sesak napas
+Nefropati diabetik;merasa kram pada bagian tubuh tertentu
+Nefropati diabetik;mual
+Nefropati diabetik;muntah
+Nefropati diabetik;sulit berkonsentrasi
+Nefropati diabetik1;kolesterol (rendah)
+Nefropati diabetik1;asam urat (rendah)
+Nefropati diabetik1;gula darah (tinggi)
+Nefropati diabetik1;gangguan tidur atau sulit tidur
+Nefropati diabetik1;kulit kering
+Nefropati diabetik1;kulit terasa gatal
+Nefropati diabetik1;urine berbusa
+Nefropati diabetik1;kurang berenergi atau mudah kelelahan
+Nefropati diabetik1;pembengkakan pada bagian tubuh tertentu
+Nefropati diabetik1;sering buang air kecil
+Nefropati diabetik1;kurang nafsu makan
+Nefropati diabetik1;berat badan menurun
+Nefropati diabetik1;sulit bernapas atau sesak napas
+Nefropati diabetik1;merasa kram pada bagian tubuh tertentu
+Nefropati diabetik1;mual
+Nefropati diabetik1;muntah
+Nefropati diabetik1;sulit berkonsentrasi
+Nefropati diabetik2;kolesterol (rendah)
+Nefropati diabetik2;asam urat (tinggi)
+Nefropati diabetik2;gula darah (tinggi)
+Nefropati diabetik2;gangguan tidur atau sulit tidur
+Nefropati diabetik2;kulit kering
+Nefropati diabetik2;kulit terasa gatal
+Nefropati diabetik2;urine berbusa
+Nefropati diabetik2;kurang berenergi atau mudah kelelahan
+Nefropati diabetik2;pembengkakan pada bagian tubuh tertentu
+Nefropati diabetik2;sering buang air kecil
+Nefropati diabetik2;kurang nafsu makan
+Nefropati diabetik2;berat badan menurun
+Nefropati diabetik2;sulit bernapas atau sesak napas
+Nefropati diabetik2;merasa kram pada bagian tubuh tertentu
+Nefropati diabetik2;mual
+Nefropati diabetik2;muntah
+Nefropati diabetik2;sulit berkonsentrasi
+Nefropati diabetik3;kolesterol (tinggi)
+Nefropati diabetik3;asam urat (rendah)
+Nefropati diabetik3;gula darah (tinggi)
+Nefropati diabetik3;gangguan tidur atau sulit tidur
+Nefropati diabetik3;kulit kering
+Nefropati diabetik3;kulit terasa gatal
+Nefropati diabetik3;urine berbusa
+Nefropati diabetik3;kurang berenergi atau mudah kelelahan
+Nefropati diabetik3;pembengkakan pada bagian tubuh tertentu
+Nefropati diabetik3;sering buang air kecil
+Nefropati diabetik3;kurang nafsu makan
+Nefropati diabetik3;berat badan menurun
+Nefropati diabetik3;sulit bernapas atau sesak napas
+Nefropati diabetik3;merasa kram pada bagian tubuh tertentu
+Nefropati diabetik3;mual
+Nefropati diabetik3;muntah
+Nefropati diabetik3;sulit berkonsentrasi
+Aterosklerosis;kolesterol (tinggi)
+Aterosklerosis;asam urat (rendah)
+Aterosklerosis;gula darah (tinggi)
+Aterosklerosis;nyeri pada dada
+Aterosklerosis;rasa berat di dada
+Aterosklerosis;tertekan di daerah dada
+Aterosklerosis;sakit atau nyeri di perut
+Aterosklerosis;sakit atau nyeri pada leher
+Aterosklerosis;sakit atau nyeri pada punggung
+Aterosklerosis;kurang berenergi atau mudah kelelahan
+Aterosklerosis;sulit bernapas atau sesak napas
+Aterosklerosis;keringat dingin
+Aterosklerosis;merasa kram pada bagian tubuh tertentu
+Aterosklerosis;Kelemahan otot di kaki
+Aterosklerosis;merasa kebingungan setiap saat
+Aterosklerosis;luka sulit sembuh pada beberapa bagian tubuh
+Aterosklerosis;benjolan pada pembuluh darah
+Aterosklerosis1;kolesterol (tinggi)
+Aterosklerosis1;asam urat (tinggi)
+Aterosklerosis1;gula darah (tinggi)
+Aterosklerosis1;nyeri pada dada
+Aterosklerosis1;rasa berat di dada
+Aterosklerosis1;tertekan di daerah dada
+Aterosklerosis1;sakit atau nyeri di perut
+Aterosklerosis1;sakit atau nyeri pada leher
+Aterosklerosis1;sakit atau nyeri pada punggung
+Aterosklerosis1;kurang berenergi atau mudah kelelahan
+Aterosklerosis1;sulit bernapas atau sesak napas
+Aterosklerosis1;keringat dingin
+Aterosklerosis1;merasa kram pada bagian tubuh tertentu
+Aterosklerosis1;Kelemahan otot di kaki
+Aterosklerosis1;merasa kebingungan setiap saat
+Aterosklerosis1;luka sulit sembuh pada beberapa bagian tubuh
+Aterosklerosis1;benjolan pada pembuluh darah
+Glaukoma;kolesterol (rendah)
+Glaukoma;asam urat (rendah)
+Glaukoma;gula darah (tinggi)
+Glaukoma;nyeri pada mata
+Glaukoma;sering pusing atau sakit kepala
+Glaukoma;mual
+Glaukoma;muntah
+Glaukoma;melihat bayangan lingkaran di sekeliling cahaya
+Glaukoma;mata berkabut
+Glaukoma;Penglihatan yang makin menyempit
+Glaukoma;gangguan penglihatan
+Glaukoma;munculnya titik berwarna kehitaman pada penglihatan
+Glaukoma;bagian sekitar mata terasa lunak
+Glaukoma1;kolesterol (tinggi)
+Glaukoma1;asam urat (rendah)
+Glaukoma1;gula darah (tinggi)
+Glaukoma1;nyeri pada mata
+Glaukoma1;sering pusing atau sakit kepala
+Glaukoma1;mual
+Glaukoma1;muntah
+Glaukoma1;melihat bayangan lingkaran di sekeliling cahaya
+Glaukoma1;mata berkabut
+Glaukoma1;Penglihatan yang makin menyempit
+Glaukoma1;gangguan penglihatan
+Glaukoma1;munculnya titik berwarna kehitaman pada penglihatan
+Glaukoma1;bagian sekitar mata terasa lunak
+Glaukoma2;kolesterol (rendah)
+Glaukoma2;asam urat (tinggi)
+Glaukoma2;gula darah (tinggi)
+Glaukoma2;nyeri pada mata
+Glaukoma2;sering pusing atau sakit kepala
+Glaukoma2;mual
+Glaukoma2;muntah
+Glaukoma2;melihat bayangan lingkaran di sekeliling cahaya
+Glaukoma2;mata berkabut
+Glaukoma2;Penglihatan yang makin menyempit
+Glaukoma2;gangguan penglihatan
+Glaukoma2;munculnya titik berwarna kehitaman pada penglihatan
+Glaukoma2;bagian sekitar mata terasa lunak
+Glaukoma3;kolesterol (tinggi)
+Glaukoma3;asam urat (tinggi)
+Glaukoma3;gula darah (tinggi)
+Glaukoma3;nyeri pada mata
+Glaukoma3;sering pusing atau sakit kepala
+Glaukoma3;mual
+Glaukoma3;muntah
+Glaukoma3;melihat bayangan lingkaran di sekeliling cahaya
+Glaukoma3;mata berkabut
+Glaukoma3;Penglihatan yang makin menyempit
+Glaukoma3;gangguan penglihatan
+Glaukoma3;munculnya titik berwarna kehitaman pada penglihatan
+Glaukoma3;bagian sekitar mata terasa lunak
+Hiperglikemia;gula darah (tinggi)
+Hiperglikemia;asam urat (tinggi)
+Hiperglikemia;kolesterol (tinggi)
+Hiperglikemia;sering buang air kecil
+Hiperglikemia;mudah haus
+Hiperglikemia;mudah lapar
+Hiperglikemia;mudah lelah
+Hiperglikemia;sering pusing atau sakit kepala
+Hiperglikemia;pandangan kabur
+Hiperglikemia;sulit berkonsentrasi
+Hiperglikemia;berat badan turun
+Hiperglikemia;keputihan
+Hiperglikemia;luka sulit sembuh
+Hiperglikemia;diare
+Hiperglikemia;muntah
+Hiperglikemia;demam
+Hiperglikemia;kadar gula darah tidak stabil atau melibihi 240 mg/dL
+Hiperglikemia;napas berbau
+Hiperglikemia;sering sakit perut
+Hiperglikemia;sulit bernapas atau sesak napas
+Hiperglikemia;mulut kering
+Hiperglikemia;lemas
+Hiperglikemia;linglung
+Hiperglikemia;penurunan kesadaran atau pingsan
+Hiperglikemia1;gula darah (tinggi)
+Hiperglikemia1;asam urat (rendah)
+Hiperglikemia1;kolesterol (tinggi)
+Hiperglikemia1;sering buang air kecil
+Hiperglikemia1;mudah haus
+Hiperglikemia1;mudah lapar
+Hiperglikemia1;mudah lelah
+Hiperglikemia1;sering pusing atau sakit kepala
+Hiperglikemia1;pandangan kabur
+Hiperglikemia1;sulit berkonsentrasi
+Hiperglikemia1;berat badan turun
+Hiperglikemia1;keputihan
+Hiperglikemia1;luka sulit sembuh
+Hiperglikemia1;diare
+Hiperglikemia1;muntah
+Hiperglikemia1;demam
+Hiperglikemia1;kadar gula darah tidak stabil atau melibihi 240 mg/dL
+Hiperglikemia1;napas berbau
+Hiperglikemia1;sering sakit perut
+Hiperglikemia1;sulit bernapas atau sesak napas
+Hiperglikemia1;mulut kering
+Hiperglikemia1;lemas
+Hiperglikemia1;linglung
+Hiperglikemia1;penurunan kesadaran atau pingsan
+hipoglikemia;gula darah (rendah)
+hipoglikemia;asam urat (tinggi)
+hipoglikemia;kolesterol (tinggi)
+hipoglikemia;mudah lapar
+hipoglikemia;mudah marah
+hipoglikemia;sulit berkonsentrasi
+hipoglikemia;sering kesemutan
+hipoglikemia;mudah lelah
+hipoglikemia;mudah pusing
+hipoglikemia;mudah gemetar
+hipoglikemia;pucat
+hipoglikemia;keringat dingin
+hipoglikemia;jantung berdebar
+hipoglikemia;gangguan penglihatan
+hipoglikemia;mudah kebingungan
+hipoglikemia;gerakan menjadi canggung atau seperti orang mabuk
+hipoglikemia;mudah gelisah
+hipoglikemia;mudah cemas
+hipoglikemia;gangguan penglihatan
+hipoglikemia;sering pusing atau sakit kepala
+hipoglikemia;kejang-kejang
+hipoglikemia1;gula darah (rendah)
+hipoglikemia1;asam urat (rendah)
+hipoglikemia1;kolesterol (tinggi)
+hipoglikemia1;mudah lapar
+hipoglikemia1;mudah marah
+hipoglikemia1;sulit berkonsentrasi
+hipoglikemia1;sering kesemutan
+hipoglikemia1;mudah lelah
+hipoglikemia1;mudah pusing
+hipoglikemia1;mudah gemetar
+hipoglikemia1;pucat
+hipoglikemia1;keringat dingin
+hipoglikemia1;jantung berdebar
+hipoglikemia1;gangguan penglihatan
+hipoglikemia1;mudah kebingungan
+hipoglikemia1;gerakan menjadi canggung atau seperti orang mabuk
+hipoglikemia1;mudah gelisah
+hipoglikemia1;mudah cemas
+hipoglikemia1;gangguan penglihatan
+hipoglikemia1;sering pusing atau sakit kepala
+hipoglikemia1;kejang-kejang
+obesitas;kolesterol (tinggi)
+obesitas;asam urat (tinggi)
+obesitas;gula darah (tinggi)
+obesitas;nilai indeks massa tubuh (IMT) 30 atau lebih,
+obesitas;mudah atau banyak berkeringat
+obesitas;penumpukan lemak di beberapa area tubuh
+obesitas;kurang berenergi atau mudah kelelahan
+obesitas;sendi terasa sakit
+obesitas;nyeri pada dada
+obesitas;rasa berat di dada
+obesitas;sering merasa lapar atau mudah lapar
+obesitas;sering merasa haus atau mudah haus
+obesitas;sering buang air kecil
+obesitas;sulit bernapas atau sesak napas
+serangan jantung;kolesterol (tinggi)
+serangan jantung;asam urat (tinggi)
+serangan jantung;gula darah (tinggi)
+serangan jantung;nyeri pada dada
+serangan jantung;sering pusing atau sakit kepala
+serangan jantung;mual
+serangan jantung;muntah
+serangan jantung;nyeri pada ulu hati
+serangan jantung;nyeri pada area lengan atau tangan
+serangan jantung;perut atas terasa penuh
+serangan jantung;lemas
+serangan jantung;keringat dingin
+serangan jantung;jantung berdebar-debar kencang
+serangan jantung;tertekan di daerah dada
+serangan jantung;mudah gelisah
+serangan jantung;batuk terus-menerus
+serangan jantung;sulit bernapas atau sesak napas
+serangan jantung;sakit atau nyeri di perut
+Edema Makula Diabetik;kolesterol (rendah)
+Edema Makula Diabetik;asam urat (rendah)
+Edema Makula Diabetik;gula darah (tinggi)
+Edema Makula Diabetik;tajam pengelihatan menuruh
+Edema Makula Diabetik;pengelihatan kurang fokus
+Edema Makula Diabetik;melihat warna jadi berubah
+Edema Makula Diabetik;pengelihatan ganda
+Edema Makula Diabetik;kehilangan pengelihatan
+Edema Makula Diabetik;garis lurus terlihat bengkok atau melengkung
+Edema Makula Diabetik;peningkatan floaters secara tiba-tiba
+Edema Makula Diabetik1;kolesterol (rendah)
+Edema Makula Diabetik1;asam urat (tinggi)
+Edema Makula Diabetik1;gula darah (tinggi)
+Edema Makula Diabetik1;tajam pengelihatan menuruh
+Edema Makula Diabetik1;pengelihatan kurang fokus
+Edema Makula Diabetik1;melihat warna jadi berubah
+Edema Makula Diabetik1;pengelihatan ganda
+Edema Makula Diabetik1;kehilangan pengelihatan
+Edema Makula Diabetik1;garis lurus terlihat bengkok atau melengkung
+Edema Makula Diabetik1;peningkatan floaters secara tiba-tiba
+Edema Makula Diabetik2;kolesterol (tinggi)
+Edema Makula Diabetik2;asam urat (rendah)
+Edema Makula Diabetik2;gula darah (tinggi)
+Edema Makula Diabetik2;tajam pengelihatan menuruh
+Edema Makula Diabetik2;pengelihatan kurang fokus
+Edema Makula Diabetik2;melihat warna jadi berubah
+Edema Makula Diabetik2;pengelihatan ganda
+Edema Makula Diabetik2;kehilangan pengelihatan
+Edema Makula Diabetik2;garis lurus terlihat bengkok atau melengkung
+Edema Makula Diabetik2;peningkatan floaters secara tiba-tiba
+Edema Makula Diabetik3;kolesterol (tinggi)
+Edema Makula Diabetik3;asam urat (tinggi)
+Edema Makula Diabetik3;gula darah (tinggi)
+Edema Makula Diabetik3;tajam pengelihatan menuruh
+Edema Makula Diabetik3;pengelihatan kurang fokus
+Edema Makula Diabetik3;melihat warna jadi berubah
+Edema Makula Diabetik3;pengelihatan ganda
+Edema Makula Diabetik3;kehilangan pengelihatan
+Edema Makula Diabetik3;garis lurus terlihat bengkok atau melengkung
+Edema Makula Diabetik3;peningkatan floaters secara tiba-tiba
+Derpomatik Diabetik;kolesterol (rendah)
+Derpomatik Diabetik;asam urat (rendah)
+Derpomatik Diabetik;gula darah (tinggi)
+Derpomatik Diabetik;bercak kulit gelap
+Derpomatik Diabetik;luka terbuka
+Derpomatik Diabetik;bintik-bintik kering
+Derpomatik Diabetik;kulit kering kemerahan
+Derpomatik Diabetik;benjolan merah atau seearna kulit
+Derpomatik Diabetik;melepuh
+Derpomatik Diabetik;benjolan kecil
+Derpomatik Diabetik1;kolesterol (rendah)
+Derpomatik Diabetik1;asam urat (tinggi)
+Derpomatik Diabetik1;gula darah (tinggi)
+Derpomatik Diabetik1;bercak kulit gelap
+Derpomatik Diabetik1;luka terbuka
+Derpomatik Diabetik1;bintik-bintik kering
+Derpomatik Diabetik1;kulit kering kemerahan
+Derpomatik Diabetik1;benjolan merah atau seearna kulit
+Derpomatik Diabetik1;melepuh
+Derpomatik Diabetik1;benjolan kecil
+Derpomatik Diabetik2;kolesterol (tinggi)
+Derpomatik Diabetik2;asam urat (rendah)
+Derpomatik Diabetik2;gula darah (tinggi)
+Derpomatik Diabetik2;bercak kulit gelap
+Derpomatik Diabetik2;luka terbuka
+Derpomatik Diabetik2;bintik-bintik kering
+Derpomatik Diabetik2;kulit kering kemerahan
+Derpomatik Diabetik2;benjolan merah atau seearna kulit
+Derpomatik Diabetik2;melepuh
+Derpomatik Diabetik2;benjolan kecil
+Derpomatik Diabetik3;kolesterol (tinggi)
+Derpomatik Diabetik3;asam urat (tinggi)
+Derpomatik Diabetik3;gula darah (tinggi)
+Derpomatik Diabetik3;bercak kulit gelap
+Derpomatik Diabetik3;luka terbuka
+Derpomatik Diabetik3;bintik-bintik kering
+Derpomatik Diabetik3;kulit kering kemerahan
+Derpomatik Diabetik3;benjolan merah atau seearna kulit
+Derpomatik Diabetik3;melepuh
+Derpomatik Diabetik3;benjolan kecil
+Difungsi Ereksi;kolesterol (tinggi)
+Difungsi Ereksi;asam urat (tinggi)
+Difungsi Ereksi;gula darah (tinggi)
+Difungsi Ereksi;terjadi ejakulasi dini
+Difungsi Ereksi;muncul rasa nyeri
+Difungsi Ereksi;gangguan rangsangab seksual
+Difungsi Ereksi;ketidakpuasan pada aktivitas seksual
+Difungsi Ereksi;stress
+Difungsi Ereksi;cemas
+Difungsi Ereksi;tekanan darah tinggi
+Difungsi Ereksi1;kolesterol (tinggi)
+Difungsi Ereksi1;asam urat (rendah)
+Difungsi Ereksi1;gula darah (tinggi)
+Difungsi Ereksi1;terjadi ejakulasi dini
+Difungsi Ereksi1;muncul rasa nyeri
+Difungsi Ereksi1;gangguan rangsangab seksual
+Difungsi Ereksi1;ketidakpuasan pada aktivitas seksual
+Difungsi Ereksi1;stress
+Difungsi Ereksi1;cemas
+Difungsi Ereksi1;tekanan darah tinggi
+Kardivoskuler;kolesterol (tinggi)
+Kardivoskuler;asam urat (tinggi)
+Kardivoskuler;gula darah (tinggi)
+Kardivoskuler;Demam tinggi
+Kardivoskuler;Bengkak bagian perut,lengan,tungkai atau area sekitar mata
+Kardivoskuler;nyeri pada rahang,leher dan punggung
+Kardivoskuler;terasa ingin pingsan
+Kardivoskuler;batuk kering
+Kardivoskuler;jantung berdebar atau bergerak lambat
+Kardivoskuler;nyeri di bagian dada
+Kardivoskuler;nafas sesak
+Kardivoskuler;mudah kelelahan
+Parkinson;kolesterol (tinggi)
+Parkinson;asam urat (tinggi)
+Parkinson;gula darah (tinggi)
+Parkinson;resting tremor
+Parkinson;perlambatan gerak
+Parkinson;kaku otot dan sendi
+Parkinson;gangguan postur dan keseimbangan
+Parkinson;hilangnya kemampuan mebaui bau
+Parkinson;sulit buang air
+Parkinson;produksi air liur yang meningkat
+Parkinson1;kolesterol (rendah)
+Parkinson1;asam urat (tinggi)
+Parkinson1;gula darah (rendah)
+Parkinson1;resting tremor
+Parkinson1;perlambatan gerak
+Parkinson1;kaku otot dan sendi
+Parkinson1;gangguan postur dan keseimbangan
+Parkinson1;hilangnya kemampuan mebaui bau
+Parkinson1;sulit buang air
+Parkinson1;produksi air liur yang meningkat
+Parkinson2;kolesterol (tinggi)
+Parkinson2;asam urat (tinggi)
+Parkinson2;gula darah (rendah)
+Parkinson2;resting tremor
+Parkinson2;perlambatan gerak
+Parkinson2;kaku otot dan sendi
+Parkinson2;gangguan postur dan keseimbangan
+Parkinson2;hilangnya kemampuan mebaui bau
+Parkinson2;sulit buang air
+Parkinson2;produksi air liur yang meningkat
+Parkinson3;kolesterol (rendah)
+Parkinson3;asam urat (tinggi)
+Parkinson3;gula darah (tinggi)
+Parkinson3;resting tremor
+Parkinson3;perlambatan gerak
+Parkinson3;kaku otot dan sendi
+Parkinson3;gangguan postur dan keseimbangan
+Parkinson3;hilangnya kemampuan mebaui bau
+Parkinson3;sulit buang air
+Parkinson3;produksi air liur yang meningkat

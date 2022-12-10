@@ -1,0 +1,420 @@
+{
+  "intents": [
+    {
+      "tag": "salam_akhir",
+      "patterns": [
+        "Dah",
+        "Dadah",
+        "Bye",
+        "Byee",
+        "Good bye",
+        "Selamat tinggal",
+        "Sampai jumpa",
+        "Bai",
+        "See you"
+      ],
+      "responses": [
+        "Bye!",
+        "Dadahh!",
+        "Good bye!",
+        "Dahh, semoga harimu menyenangkan yaa!",
+        "Sampai jumpa lagi!",
+        "See u! Senang bisa membantu"
+      ]
+    },
+    {
+      "tag": "terimakasih",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Terima kasih",
+        "Makasih",
+        "Terima kasih banyak"
+      ],
+      "responses": [
+        "Dengan senang hati :)",
+        "Sama-sama yaa"
+      ]
+    },
+    {
+      "tag": "salam",
+      "patterns": [
+        "hallo",
+        "hai",
+        "halo",
+        "hei",
+        "hi",
+        "hy",
+        "pagi",
+        "morning",
+        "siang",
+        "afternoon",
+        "sore",
+        "malam",
+        "bro",
+        "sis",
+        "kawan",
+        "assalamualaikum",
+        "salom",
+        "morning",
+        "hello"
+      ],
+      "responses": [
+        "Halo! MedicBot ready, aku ahli tentang penyakit kolesterol, asam urat, dan gula darah, mau tentang apa?",
+        "Hai! Aku MedicBot, salam kenal! Mau tau tentang apa nih, tanyain apa aja seputar penyakit kolesterol, asam urat, dan gula darah"
+      ]
+    },
+    {
+      "tag": "apa_itu_himedic",
+      "patterns": [
+        "apa itu HiMedic?",
+        "HiMedic itu aplikasi apa?",
+        "jelaskan tentang HiMedic",
+        "HiMedic"
+      ],
+      "responses": [
+        "HiMedic adalah aplikasi dengan berbasis kecerdasan buatan yang dapat memperhitungkan resiko penyakit user berdasarkan nilai kolesterol, asam urat, gula darah dan gejala yang dialami oleh user. Himedic juga terintegrasi dengan fitur chatbot MedicBot yang akan memberikan kamu informasi seputar aplikasi ini dan juga bisa memberikan saran kesehatan buat user",
+        "HiMedic adalah aplikasi yang dapat memberikan informasi penyakit yang mungkin diderita user berdasarkan input gejala yang dimasukkan, juga HiMedic memiliki fitur chatbot MedicBot yang dapat berinteraksi dengan user"
+      ]
+    },
+    {
+      "tag": "apa_itu_kolesterol",
+      "patterns": [
+        "coba jelaskan apa itu kolesterol",
+        "apa itu kolesterol?",
+        "kolesterol itu apa?",
+        "apa pengertian koleterol?",
+        "apa itu penyakit kolesterol?",
+        "kolesterol",
+        "kolestrol"
+      ],
+      "responses": [
+        "Kolesterol adalah lemak yang diproduksi oleh tubuh, dan juga berasal dari makanan hewani. Dalam kadar yang sesuai, ini sebenarnya dibutuhkan oleh tubuh dalam membantu membangun sel-sel baru agar tubuh bisa tetap berfungsi secara normal. Namun, jika kadar kolesterol terlalu tinggi, maka hal tersebut berbahaya bagi tubuh karena akan menyebabkan berbagai penyakit dan komplikasi.",
+        "Kolestrol adalah lemak yang terdapat di dalam aliran darah atau sel tubuh yang sebenarnya dibutuhkan untuk pembentukan dinding sel dan sebagai bahan baku beberapa hormon. Namun apabila kadar kolestrol dalam darah berlebihan, maka bisa mengakibatkan penyakit, termasuk penyakit jantung koroner dan stroke. Kolesterol baik (HDL-High Density Lipoprotein) berfungsi untuk mencegah terjadinya ateroma atau penyempitan pembuluh darah akibat lemak. Sedangkan kolesterol jahat (LDL-Low Density Lipoprotein) merupakan salah satu penyebab utama penyakit."
+      ]
+    },
+    {
+      "tag": "apa_itu_asam_urat",
+      "patterns": [
+        "coba jelaskan apa itu asam urat?",
+        "apa itu asam urat?",
+        "asam urat itu apa?",
+        "apa pengertian asam urat?",
+        "apa itu penyakit asam urat?",
+        "asam urat"
+      ],
+      "responses": [
+        "asam urat merupakan senyawa yang diproduksi oleh tubuh untuk mengurai purin untuk mengatur pertumbuhan sel hingga menyediakan energi. Namun, terkadang tubuh dapat menghasilkan terlalu banyak asam urat. Ketika ini terjadi, asam urat dapat menumpuk, membentuk kristal urat tajam seperti jarum di sendi yang menyebabkan rasa sakit dan pembengkakan.",
+        "Asam urat merupakan zat sisa yang terbentuk saat tubuh memetabolisme substansi yang dinamakan purin. Saat tubuh Anda memproduksi terlalu banyak, terjadi penumpukan yang membentuk kristal-kristal asam urat.Penumpukan bisa terjadi di sekitar sendi dan ginjal."
+      ]
+    },
+    {
+      "tag": "apa_itu_gula_darah",
+      "patterns": [
+        "coba jelaskan apa itu gula darah?",
+        "apa itu gula darah?",
+        "gula darah itu apa?",
+        "apa pengertian gula darah?",
+        "apa itu penyakit gula darah?",
+        "gula darah",
+        "glukosa"
+      ],
+      "responses": [
+        "gula darah atau glukosa dalam darah adalah zat yang dialirkan melalui darah dan sebagai sumber utama energi untuk sel-sel tubuh. Bila level gula darah menurun terlalu rendah, berkembanglah kondisi yang bisa fatal. Bila levelnya tetap tinggi, dapat menyebabkan masalah-masalah kesehatan yang berkepanjangan pula yang berkaitan dengan diabetes",
+        "Gula darah sebagai sumber energi dan juga memberikan manfaat untuk menjaga sel saraf di jaringan otak, tetapi jika kelebihan atau kekurangan gula darah dalam jangka panjang dapat menyebabkan beberapa penyakit yang fatal."
+      ]
+    },
+    {
+      "tag": "bahaya_kolesterol_tinggi",
+      "patterns": [
+        "bahayanya kolesterol itu apa?",
+        "apa dampak buruk koleterol?",
+        "bahaya koleterol tinggi apa?",
+        "apa dampak negatif kolesterol tinggi?"
+      ],
+      "responses": [
+        "Tingginya kadar kolesterol dalam tubuh memicu penimbunan lemak pada pembuluh darah. Pada akhirnya, endapan ini menyulitkan aliran darah ke arteri. Hal ini membuat jantung tidak mendapatkan oksigen sebanyak yang dibutuhkan, sehingga meningkatkan risiko penyakit pada jantung dan saraf"
+      ]
+    },
+    {
+      "tag": "bahaya_gula_darah_tinggi",
+      "patterns": [
+        "bahayanya gula darah itu apa?",
+        "apa dampak buruk gula darah?",
+        "bahaya gula darah tinggi apa?",
+        "apa dampak negatif gula darah tinggi?",
+        "apa dampak negatif gula darah rendah",
+        "bahaya gula darah rendah apa?"
+      ],
+      "responses": [
+        "Kadar gula darah yang terlalu tinggi bisa terjadi saat tubuh tidak memiliki hormon insulin yang cukup. Akibat dari kondisi gula darah tinggi ini sel tubuh tidak dapat menyerap glukosa. Padahal glukosa diperlukan untuk menghasilkan energi dalam tiap sel tubuh."
+      ]
+    },
+    {
+      "tag": "bahaya_asam_urat_tinggi",
+      "patterns": [
+        "bahayanya asam urat itu apa?",
+        "apa dampak buruk asam urat?",
+        "bahaya asam urat tinggi apa?",
+        "apa dampak negatif asam urat tinggi?"
+      ],
+      "responses": [
+        "Tingginya kadar asam urat dalam tubuh dapat menyebabkan penyumbatan aliran darah oleh penumpukan kristal yang berasal dari asam urat. Aliran darah yang tersumbat mengakibatkan gangguan aliran menuju jantung. Menyebabkan masalah kesehatan seperti nyeri pada bagian sendi yang disertai dengan kondisi pembengkakan."
+      ]
+    },
+    {
+      "tag": "apa_itu_autocheck",
+      "patterns": [
+        "apa itu alat autocheck?",
+        "apa alat pengecek gula darah?",
+        "apa alat pengecek kolesterol?",
+        "apa alat pengecek asam urat?",
+        "bagaimana cara mengecek gula darah?",
+        "bagaimana cara mengecek asam urat?",
+        "bagaimana cara mengecek kolesterol?"
+      ],
+      "responses": [
+        "AUTOCHECK 3IN1 MONITORING SYSTEM merupakan suatu alat untuk membantu mengecek kadar Gula Darah (Glucose), Kolesterol (Total Cholesterol) dan Asam Urat (Uric Acid) secara sekaligus dalam satu alat yang menjadikan pemeriksaan komponen tiga darah tersebut menjadi lebih murah dan efisien."
+      ]
+    },
+    {
+      "tag": "apa_itu_medicbot",
+      "patterns": [
+        "siapa itu MedicBot?",
+        "Apa itu MedicBot?",
+        "jelaskan tentang MedicBot",
+        "MedicBot"
+      ],
+      "responses": [
+        "MedicBot adalah fitur chatbot yang akan menjawab semua pertanyaan seputar kesehatan yang berkaitan dengan kolesterol, asam urat dan gula darah",
+        "MedicBot adalah chatbot yang akan memberikan informasi seputar asam urat, kolesterol, gula darah dan hal-hal lain yang berkaitan dengan itu."
+      ]
+    },
+    {
+      "tag": "pencipta_medicbot_himedic",
+      "patterns": [
+        "siapa pencipta MedicBot?",
+        "siapa pembuat MedicBot?",
+        "MedicBot siapa yang membuat kamu?",
+        "siapa yang bikin MedicBot?"
+      ],
+      "responses": [
+        "HiMedic beserta MedicBot diciptakan oleh mahasiswa dan mahasiswi yang mengikuti program studi independen merdeka belajar AI for Startup ",
+        "Himedic beserta MedicBot diciptakan oleh mahasiswa dan mahasiswi kreatif sebagai project akhir dalam kegiatan AI for Startup "
+      ]
+    },
+    {
+      "tag": "penggunaan_himedic",
+      "patterns": [
+        "bagaimana cara menggunakan HiMedic?",
+        "cara pakai aplikasi HiMedic?",
+        "cara menjalankan aplikasi HiMedic",
+        "bagaimana cara pemakaian aplikasi ini?"
+      ],
+      "responses": [
+        "Kamu bisa menggunakan fitur diagnosis HiMedic untuk melihat resiko kamu terserang penyakit berdasarkan inputan yang akan diminta oleh model HiMedic pada halaman diagnosis situ ini"
+      ]
+    },
+    {
+      "tag": "tips_kesehatan",
+      "patterns": [
+        "bagaimana cara supaya tetap sehat?",
+        "kasih tips buat kesehatan",
+        "bagaimana cara menjaga kesehatan?",
+        "saran supaya tubuh selalu sehat"
+      ],
+      "responses": [
+        "Salah satu cara untuk menjaga tubuh tetap sehat adalah mengandalikan emosi Perasaan seseorang seperti sedih, marah, cemas, kecewa, dll akan direspon oleh organ tubuh lainnya. Stress yang dialami oleh seseorang bisa menjadi pemicu terbentuknya radikal bebas di dalam tubuh, yang jika dibiarkan dalam jangka waktu panjang berakibat tubuh rentan terkena penyakit",
+        "Untuk menjaga tubuh tetap sehat kita perlu menjaga pola makan, dengan pola makan 4 sehat 5 sempurna. Jadi, pastikan tubuh kamu kamu selalu menerima asupan nutrisi yang seimbang.",
+        "Salah satu cara menjaga tubuh tetap sehat adalah dengan tidak pernah meremehkan tidur, karena manfaatnya sangat besar bagi tubuh kamu. Tidur jadi kunci dari kekebalan tubuh yang kuat, meningkatkan daya ingat, dan bisa menjadi pengendali nafsu makan. ",
+        "Salah satu cara menjaga tubuh tetap sehat adalah rutin olahraga agar tubuh tetap aktif, sehat, ideal, dan bugar. Olahraga juga dapat mencegah berbagai macam penyakit dan mengurangi stres."
+      ]
+    },
+    {
+      "tag": "makanan_kolesterol",
+      "patterns": [
+        "makanan apa yang buat kolesterol tinggi?",
+        "makanan yang menaikkan tingkat kolesterol",
+        "apa makanan yang buat koleterol naik?",
+        "makanan yang tidak baik bagi kolesterol"
+      ],
+      "responses": [
+        "Untuk mencegah kolesterol tinggi, hindari makanan tinggi kolesterol misalnya makanan yang digoreng, makanan cepat saji, daging olahan dan makanan manis"
+      ]
+    },
+    {
+      "tag": "makanan_anti_kolesterol",
+      "patterns": [
+        "apa makanan yang baik untuk menjecegah kolesterol tinggi?",
+        "apa makanan untuk menurunkan kolesterol?"
+      ],
+      "responses": [
+        "Jika kamu ingin menurunkan kolesterol maka kamu bisa mengkonsumsi buah alpukat, kacang-kacangan, oat, ikan salmon dan tuna, kentang, sayur-sayuran hijau, bawang putih, kedelai dan terung. "
+      ]
+    },
+    {
+      "tag": "makanan_asam_urat",
+      "patterns": [
+        "makanan apa yang buat asam urat tinggi?",
+        "makanan yang menaikkan tingkat asam urat",
+        "apa makanan yang buat asam urat naik?",
+        "makanan yang tidak baik bagi asam urat"
+      ],
+      "responses": [
+        "Beberapa makana yang harus dihindari jika kamu tidak ingin memiliki asam urat tinggi yaitu minuman dengan gula tinggi, makanan olahan, daging merah, makanan laut misalnya kepiting atau lobster dan minuman keras"
+      ]
+    },
+    {
+      "tag": "makanan_anti_asam_urat",
+      "patterns": [
+        "apa makanan yang baik untuk menjecegah asam urat tinggi?",
+        "apa makanan untuk menurunkan asam urat?"
+      ],
+      "responses": [
+        "Jika kamu ingin menurunkan asam urat baiknya mengkonsumsi sayur-sayuran kecuali kol dan bayam, buah-buahan, air putih, olahan susu atau minyak zaitun"
+      ]
+    },
+    {
+      "tag": "makanan_gula_darah",
+      "patterns": [
+        "makanan apa yang buat gula darah tinggi?",
+        "makanan yang menaikkan tingkat gula darah",
+        "apa makanan yang buat gula darah naik?",
+        "makanan yang tidak baik bagi gula darah"
+      ],
+      "responses": [
+        "Makanan yang dapat meningkatkan resiko gula darah tinggi yaitu makanan tinggi karbohidrat, makanan tinggi lemak jenuh misalnya olahan susu dan daging, manisan dan buah kering, minuma bersoda serta minuman beralkohol"
+      ]
+    },
+    {
+      "tag": "makanan_anti_gula_darah",
+      "patterns": [
+        "apa makanan yang baik untuk menjecegah gula darah tinggi?",
+        "apa makanan untuk menurunkan gula darah?"
+      ],
+      "responses": [
+        "Makanan yang bisa membantu menurunkan gula darah yaitu buah-buahan seperti apel atau alpukat, brokoli, telur, kacang tanah, kacang merah dan gandum."
+      ]
+    },
+    {
+      "tag": "tujuan_himedic",
+      "patterns": [
+        "apa kegunaan dari aplikasi ini",
+        "gunanya Himedic apa?",
+        "kegunaan aplikasi HiMedic",
+        "apa tujuan dibuatnya HiMedic?"
+      ],
+      "responses": [
+        "Aplikasi HiMedic diciptakan untuk membantu user dalam mendiagnosis resiko penyakit berdasarkan gejala yang sedang terjadi pada user. HiMedic akan memberikan saran gaya hidup dan pola makan sehat yang bertujuan membuat user memiliki pola hidup yang lebih sehat dan sesuai dengan kondisi mereka sekarang. Kami sarankan penggunaan HiMedic diikuti dengan konsultasi lanjutan ke dokter agar diagnosis dapat dikonfirmasi secara pasti"
+      ]
+    },
+    {
+      "tag": "penyakit_kolesterol",
+      "patterns": [
+        "apa saja penyakit akibat kolesterol?"
+      ],
+      "responses": [
+        "Jika kamu memiliki kolesterol yang tinggi, maka kamu memiliki resiko terkena penyakit serangan jantung koroner, stroke, diabetes tipe 2, penyakit arteri perifer atau tekanan darah tinggi"   
+      ]
+    },
+    {
+      "tag": "penyakit_asam_urat",
+      "patterns": [
+        "apa saja penyakit akibat asam urat?"
+      ],
+      "responses": [
+        "Kondisi kesehatan seperti encok, tophaceous gout (benjolan keras di bawah kulit) dan batu ginjal merupakan penyakit yang dapat muncul akibat kadar asam urat tinggi"
+      ]
+    },
+    {
+      "tag": "penyakit_gula_darah",
+      "patterns": [
+        "apa saja penyakit akibat gula darah?"
+      ],
+      "responses": [
+        "penyakit yang bisa muncul akibat gula darah tinggi antara lain serangan jantung, Stroke, Kerusakan ginjal, Kerusakan saraf juga otak atau Gangguan penglihatan. Lalu jika kadar gula darah sangat rendah dalam jangka panjang bisa menyebabkan kerusakan permanen pada otak."
+      ]
+    },
+    {
+      "tag": "gaya_hidup_anti_kolesterol",
+      "patterns": [
+        "bagaimana cara menghindari kolesterol tinggi?",
+        "apa gaya hidup untuk mengontrol kolesterol?",
+        "bagaiamana gaya hidup anti kolesterol?",
+        "cara mengobati kolesterol",
+        "cara menyembuhkan kolesterol",
+        "bagaimana cara menghilangkan kolesterol"
+      ],
+      "responses": [
+        "Untuk menjaga kadar kolesterol tetap dalam batas yang wajar, kamu harus menjaga pola makan dengan menjauhi makanan yang bisa menaikkan koleterol, olahraga secara rutin, mengalola stress dan tidak merokok"
+      ]
+    },
+    {
+      "tag": "gaya_hidup_anti_gula_darah",
+      "patterns": [
+        "bagaimana cara menghindari gula darah tinggi?",
+        "apa gaya hidup untuk mengontrol gula darah?",
+        "bagaiamana gaya hidup anti gula darah?",
+        "cara mengobati gula darah",
+        "cara menyembuhkan gula darah",
+        "bagaimana cara menghilangkan gula darah"
+      ],
+      "responses": [
+        "Kamu bisa menjaga kadar gula darah tetap terkontrol dengan rutin olahraga, mempertahankan berat badan ideal, istirahat yang cukup, jaga pola makan dan tidak mengkonsumsi minuman beralkohol."
+      ]
+    },
+    {
+      "tag": "gaya_hidup_anti_asam_urat",
+      "patterns": [
+        "bagaimana cara menghindari asam urat tinggi?",
+        "apa gaya hidup untuk mengontrol asam urat?",
+        "bagaiamana gaya hidup anti asam urat?",
+        "cara mengobati asam urat",
+        "cara menyembuhkan asam urat",
+        "bagaimana cara menghilangkan asam urat"
+      ],
+      "responses": [
+        "Kalau kamu mau menjaga kadar asam urat dalam tubuh tetap terkontrol kamu harus rajin mencukupi kebutuhan cairan tubuh, menghindari stress, rajin olah raga, hindari makanan yang dapat meningkatkan asam urat dan istirahat yang cukup"
+      ]
+    },
+    {
+      "tag": "batas_gula_darah",
+      "patterns": [
+        "berapa batas minimal gula darah?",
+        "kapan gula darah dikatakan tinggi?",
+        "berapa gula darah tinggi?",
+        "gula darah tinggi itu berapa?",
+        "kapan gula darah dinyatakan tinggi?"
+      ],
+      "responses": [
+        "Kadar gula darah normal sesuai dengan usia. Anak usia di bawah 6 tahun berkisar 80-200 mg/dL, anak usia 6-12 tahun berkisar 80-180 mg/dL, 13-19 tahun berkisar 70-150 mg/dL dan diatas 20 tahun 100 – 180 mg/dL"
+      ]
+    },
+    {
+      "tag": "batas_asam_urat",
+      "patterns": [
+        "berapa batas minimal asam urat?",
+        "kapan asam urat dikatakan tinggi?",
+        "berapa asam urat tinggi?",
+        "asam urat tinggi itu berapa?",
+        "kapan asam urat dinyatakan tinggi?"
+      ],
+      "responses": [
+        "setiap laboratorium atau rumah sakit mungkin saja memiliki angka kisaran normal yang sedikit berbeda, jadi konsultasikan ke dokter anda. Namun, berikut adalah angka kisaran kadar asam urat normal dalam darah, Wanita dewasa: 2,4–6,0 miligram per desiliter (mg/dL), Pria dewasa: 3,1–7,0 mg/dL dan Anak-anak: 2,0–5,5 mg/dL"
+      ]
+    },
+    {
+      "tag": "batas_kolesterol",
+      "patterns": [
+        "berapa batas minimal kolesterol?",
+        "kapan kolesterol dikatakan tinggi?",
+        "berapa kolesterol tinggi?",
+        "kolesterol tinggi itu berapa?",
+        "kapan kolesterol dinyatakan tinggi?"
+      ],
+      "responses": [
+        "Kadar kolesterol yang kurang dari 200 mg/dL masih bisa ditoleransi. Jumlah kadar kolesterol 200-239 mg/dL sudah masuk pada ambang batas tinggi. Jika jumlahnya mencapai 240 mg/dL atau lebih termasuk tingkat kolesterol tinggi"
+      ]
+    }
+  ]
+}
