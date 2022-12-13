@@ -299,7 +299,28 @@ def predict():
                             progress = (1 - len(data_enc2.index)/len(data_enc.index))*100)
 
 
-    
+@app.route("/reset", methods=["POST"])
+def reset():
+  global flag_counter, list_gejala_user, data_enc2, kolesterol_user, asam_urat_user, gula_darah_user, data_enc, input_gejala, hasil_diagnosa, persentase, penjelasan_penyakit, gaya_hidup_penyakit, makanan_penyakit, reset_counter
+  reset_counter = 0
+  flag_counter = 0
+  list_gejala_user = []
+  data_enc2 = data_enc
+  kolesterol_user = 0
+  asam_urat_user = 0
+  gula_darah_user = 0 
+  input_gejala = 0
+  hasil_diagnosa = ""
+  persentase = ""
+  penjelasan_penyakit = ""
+  gaya_hidup_penyakit = ""
+  makanan_penyakit = ""
+  return render_template('index.html',
+                          flag_counter = flag_counter, flag_counter2 = flag_counter, 
+                          flag_counter3 = flag_counter,flag_counter4 = flag_counter,
+                          reset_counter = reset_counter, progress = (1 - len(data_enc2.index)/len(data_enc.index))*100)
+
+
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", debug=True)
