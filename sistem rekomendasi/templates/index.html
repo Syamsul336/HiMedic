@@ -167,10 +167,15 @@
     <i class="fa fa-home my-float"></i>
   </a>
   
-  {% if reset_counter == 1 %}
+{% if reset_counter == 1 %}
   <form class="form-user" action="/predict" method="post">
     <button type="submit" class="msger-send-btn" style="margin-bottom: 30px;">Diagnosis Ulang</button>
   </form>
+{% else %}
+  <form class="form-user" action="/reset" method="post">
+    <button type="submit" class="msger-send-btn" style="margin-bottom: 30px;">reset</button>
+  </form>
+{% endif %}
 
   {% endif %}
     <!-- Bootstrap JS -->
